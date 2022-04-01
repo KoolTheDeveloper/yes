@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "type": "java",
+            "type": "KoolScript",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
